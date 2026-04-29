@@ -29,8 +29,13 @@
 
 ---
 
-## DEPLOYMENT LINK - 
+## MODEL LINK - ( Python  File )
+https://github.com/Om36/Liver-Disease-Prediction-Using-Clinical-Data/blob/8076949cd6e8ce70d37e8782f7171a63b9c9e3e0/Liver%20Disease%20Prediction%20Using%20Clinical%20Data%20.ipynb
+
+## DEPLOYMENT LINK (Presentation) - 
 https://liver-disease-prediction-phi.vercel.app/
+
+
 
 ## 🧬 The Problem We Are Solving
 
