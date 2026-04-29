@@ -30,7 +30,7 @@
 ---
 
 ## DEPLOYMENT LINK - 
-liver-disease-prediction-phi.vercel.app
+https://liver-disease-prediction-phi.vercel.app/
 
 ## 🧬 The Problem We Are Solving
 
