@@ -29,6 +29,9 @@
 
 ---
 
+## DEPLOYMENT LINK - 
+liver-disease-prediction-phi.vercel.app
+
 ## 🧬 The Problem We Are Solving
 
 <table>
