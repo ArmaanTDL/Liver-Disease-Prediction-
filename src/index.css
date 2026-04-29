@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%; /* prevent iOS font inflation */
+  }
+  body {
+    @apply bg-navy text-white font-body selection:bg-teal selection:text-white;
+    overflow-x: hidden;             /* no horizontal scroll on mobile */
+    -webkit-overflow-scrolling: touch; /* momentum scrolling on iOS */
+  }
+}
+
+@layer utilities {
+  .clip-hexagon {
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }
+}
